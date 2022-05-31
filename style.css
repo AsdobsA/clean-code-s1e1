@@ -4,23 +4,23 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.aaa {
+.container-more-inf {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.aaa 
+.container-more-inf 
 img {
   width: 100%;
 }
-.aaa, 
+.container-more-inf, 
 .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
-  .aaa { 
+  .container-more-inf { 
     text-align: center;
   }
 }
