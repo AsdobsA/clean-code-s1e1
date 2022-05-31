@@ -4,23 +4,23 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.aaa {
+.container-more-information {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.aaa 
+.container-more-information 
 img {
   width: 100%;
 }
-.aaa, 
-.more_inf {
+.container-more-information, 
+.more-information {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
-  .aaa { 
+  .container-more-information { 
     text-align: center;
   }
 }
@@ -62,7 +62,7 @@ button:hover {
   color: #3a3A3a;
 }
 /* Heading */
-h3,
+.text-name-form,
 label[for="new-task"] {
   color: #333;
   font-weight: 700;
